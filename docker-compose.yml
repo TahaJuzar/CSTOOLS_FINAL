@@ -1,0 +1,22 @@
+docker-compose.yml
+README.txt
+
+
+   client
+       Dockerfile
+       requirements.txt
+
+
+
+
+
+        app
+           client.py
+
+   server
+       Dockerfile
+       requirements.txt
+    
+
+        app
+           server.py
